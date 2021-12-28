@@ -40,6 +40,17 @@
 <p style="margin-left:45%">○ 1016 - Distância ○</p>
 <p style="margin-left:45%">○ 1017 - Gasto de Combustível ○</p>
 <p style="margin-left:45%">○ 1018 - Cédulas ○</p>
+<p style="margin-left:45%">○ 1019 - Conversão de Tempo ○</p>
+<p style="margin-left:45%">○ 1020 - Idade em Dias ○</p>
+<p style="margin-left:45%">○ 1021 - Notas e Moedas ○</p>
+<p style="margin-left:45%">○ 1022 - TDA Racional ○</p>
+<p style="margin-left:45%">○ 1023 - Estiagem ○</p>
+<p style="margin-left:45%">○ 1024 - Criptografia ○</p>
+<p style="margin-left:45%">○ 1025 - Onde está o Mármore? ○</p>
+<p style="margin-left:45%">○ 1026 - Carrega ou não Carrega? ○</p>
+<p style="margin-left:45%">○ 1027 - Onda Crítica ○</p>
+<p style="margin-left:45%">○ 1028 - Figurinhas ○</p>
+<p style="margin-left:45%">○ 1029 - Fibonacci, Quantas Chamadas? ○</p>
 
 #
 
@@ -67,5 +78,17 @@
 <p style="margin-left:45%">○ 1016 - Distância ○</p>
 <p style="margin-left:45%">○ 1017 - Gasto de Combustível ○</p>
 <p style="margin-left:45%">○ 1018 - Cédulas ○</p>
+<p style="margin-left:45%">○ 1019 - Conversão de Tempo ○</p>
+<p style="margin-left:45%">○ 1020 - Idade em Dias ○</p>
+<p style="margin-left:45%">○ 1021 - Notas e Moedas ○</p>
+<p style="margin-left:45%">○ 1022 - TDA Racional ○</p>
+<p style="margin-left:45%">○ 1023 - Estiagem ○</p>
+<p style="margin-left:45%">○ 1024 - Criptografia ○</p>
+<p style="margin-left:45%">○ 1025 - Onde está o Mármore? ○</p>
+<p style="margin-left:45%">○ 1026 - Carrega ou não Carrega? ○</p>
+<p style="margin-left:45%">○ 1027 - Onda Crítica ○</p>
+<p style="margin-left:45%">○ 1028 - Figurinhas ○</p>
+<p style="margin-left:45%">○ 1029 - Fibonacci, Quantas Chamadas? ○</p>
+
 
 #
