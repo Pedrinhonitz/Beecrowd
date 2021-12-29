@@ -54,6 +54,29 @@
 
 #
 
+
+<h3 align="center" style="font-size:25px"> ► Exercise in C++ ◄ </h3>
+
+<br>
+<br>
+
+<p style="margin-left:45%">○ 1000 - Hello World! ○</p>
+<p style="margin-left:45%">○ 1001 - Extremamente Básico ○</p>
+<p style="margin-left:45%">○ 1002 - Área do Círculo ○</p>
+<p style="margin-left:45%">○ 1003 - Soma Simples ○</p>
+<p style="margin-left:45%">○ 1004 - Produto Simples ○</p>
+<p style="margin-left:45%">○ 1005 - Média 1 ○</p>
+<p style="margin-left:45%">○ 1006 - Média 2 ○</p>
+<p style="margin-left:45%">○ 1007 - Diferença ○</p>
+<p style="margin-left:45%">○ 1008 - Salário ○</p>
+<p style="margin-left:45%">○ 1009 - Salário com Bônus ○</p>
+<p style="margin-left:45%">○ 1010 - Cálculo Simples ○</p>
+
+
+
+#
+
+
 <h3 align="center" style="font-size:25px"> ► Exercise in Python ◄ </h3>
 
 <br>
@@ -89,6 +112,28 @@
 <p style="margin-left:45%">○ 1027 - Onda Crítica ○</p>
 <p style="margin-left:45%">○ 1028 - Figurinhas ○</p>
 <p style="margin-left:45%">○ 1029 - Fibonacci, Quantas Chamadas? ○</p>
+
+
+#
+
+
+<h3 align="center" style="font-size:25px"> ► Contest de Natal 2021 ◄ </h3>
+<br>
+<h3 style="margin-left:45%" style="font-size:20px"><b> → Python & C ← </b></h3>
+<br>
+<br>
+
+<p style="margin-left:46%">○ Exercise A ○</p>
+<p style="margin-left:46%">○ Exercise B ○</p>
+<p style="margin-left:46%">○ Exercise C ○</p>
+<p style="margin-left:46%">○ Exercise D ○</p>
+<p style="margin-left:46%">○ Exercise E ○</p>
+<p style="margin-left:46%">○ Exercise F ○</p>
+<p style="margin-left:46%">○ Exercise G ○</p>
+<p style="margin-left:46%">○ Exercise H ○</p>
+<p style="margin-left:46%">○ Exercise I ○</p>
+<p style="margin-left:46%">○ Exercise J ○</p>
+
 
 
 #
