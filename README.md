@@ -13,6 +13,7 @@
 <li style="margin-left:47%">Python</li>
 <li style="margin-left:47%">Java</li>
 <li style="margin-left:47%">Java Script</li>
+<li style="margin-left:47%">PostgreSQL</li>
 
 #
 
@@ -179,5 +180,33 @@
 <p style="margin-left:46%">○ Exercise J ○</p>
 
 
+
+
+#
+
+<h3 align="center" style="font-size:25px"> ► Exercise in PostgreSQL ◄ </h3>
+
+<br>
+<br>
+
+<p style="margin-left:45%">○ 2602 - Select Básico ○</p>
+<p style="margin-left:45%">○ 2603 - Endereço dos Clientes ○</p>
+<p style="margin-left:45%">○ 2604 - Menores que 10 ou Maiores que 100 ○</p>
+<p style="margin-left:45%">○ 2605 - Representantes Executivos ○</p>
+<p style="margin-left:45%">○ 2606 - Categorias ○</p>
+<p style="margin-left:45%">○ 2607 - Cidades em Ordem Alfabética ○</p>
+<p style="margin-left:45%">○ 2608 - Maior e Menos Preço ○</p>
+<p style="margin-left:45%">○ 2609 - Produtos por Categorias ○</p>
+<p style="margin-left:45%">○ 2610 - Valor Médio dos Produtos ○</p>
+<p style="margin-left:45%">○ 2611 - Filmes de Ação ○</p>
+<p style="margin-left:45%">○ 2613 - Filmes em Promoção ○</p>
+<p style="margin-left:45%">○ 2614 - Locações de Setembro ○</p>
+<p style="margin-left:45%">○ 2615 - Expandindo o Negocio ○</p>
+<p style="margin-left:45%">○ 2616 - Nenhuma Locação ○</p>
+<p style="margin-left:45%">○ 2617 - Fornecedor Ajax SA ○</p>
+<p style="margin-left:45%">○ 2618 - Produtos Importados ○</p>
+<p style="margin-left:45%">○ 2619 - Super Luxo ○</p>
+<p style="margin-left:45%">○ 2620 - Pedidos no Primeiro Semestre ○</p>
+<p style="margin-left:45%">○ 2621 - Quantidades Entre 10 e 20 ○</p>
 
 #
