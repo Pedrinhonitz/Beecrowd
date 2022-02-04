@@ -1,0 +1,1 @@
+SELECT p.name, pr.name FROM products as p, providers as pr WHERE p.id_providers = pr.id AND pr.name = 'Ajax SA';
