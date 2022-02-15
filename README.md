@@ -149,14 +149,13 @@
 <p style="margin-left:45%">○ 1019 - Conversão de Tempo ○</p>
 <p style="margin-left:45%">○ 1020 - Idade em Dias ○</p>
 <p style="margin-left:45%">○ 1021 - Notas e Moedas ○</p>
-<p style="margin-left:45%">○ 1022 - TDA Racional ○</p>
-<p style="margin-left:45%">○ 1023 - Estiagem ○</p>
-<p style="margin-left:45%">○ 1024 - Criptografia ○</p>
-<p style="margin-left:45%">○ 1025 - Onde está o Mármore? ○</p>
 <p style="margin-left:45%">○ 1026 - Carrega ou não Carrega? ○</p>
-<p style="margin-left:45%">○ 1027 - Onda Crítica ○</p>
-<p style="margin-left:45%">○ 1028 - Figurinhas ○</p>
-<p style="margin-left:45%">○ 1029 - Fibonacci, Quantas Chamadas? ○</p>
+<p style="margin-left:45%">○ 1035 - Teste de Seleção 1 ○</p>
+<p style="margin-left:45%">○ 1036 - Fórmula de Bhaskara ○</p>
+<p style="margin-left:45%">○ 1037 - Intervalo ○</p>
+<p style="margin-left:45%">○ 1038 - Lanche ○</p>
+<p style="margin-left:45%">○ 1039 - Flores de Fogo ○</p>
+<p style="margin-left:45%">○ 1040 - Média 3 ○</p>
 
 
 #
