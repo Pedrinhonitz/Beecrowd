@@ -177,6 +177,27 @@
 <p style="margin-left:46%">○ Exercise I ○</p>
 <p style="margin-left:46%">○ Exercise J ○</p>
 
+#
+
+
+<h3 align="center" style="font-size:25px"> ► Exercise in Ruby ◄ </h3>
+
+<br>
+<br>
+
+<p style="margin-left:45%">○ 1000 - Hello World! ○</p>
+<p style="margin-left:45%">○ 1001 - Extremamente Básico ○</p>
+<p style="margin-left:45%">○ 1002 - Área do Círculo ○</p>
+<p style="margin-left:45%">○ 1003 - Soma Simples ○</p>
+<p style="margin-left:45%">○ 1004 - Produto Simples ○</p>
+<p style="margin-left:45%">○ 1005 - Média 1 ○</p>
+<p style="margin-left:45%">○ 1006 - Média 2 ○</p>
+<p style="margin-left:45%">○ 1007 - Diferença ○</p>
+<p style="margin-left:45%">○ 1008 - Salário ○</p>
+<p style="margin-left:45%">○ 1009 - Salário com Bônus ○</p>
+<p style="margin-left:45%">○ 1010 - Cálculo Simples ○</p>
+
+
 
 
 
