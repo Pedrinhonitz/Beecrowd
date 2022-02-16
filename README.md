@@ -49,9 +49,8 @@
 <p style="margin-left:45%">○ 1024 - Criptografia ○</p>
 <p style="margin-left:45%">○ 1025 - Onde está o Mármore? ○</p>
 <p style="margin-left:45%">○ 1026 - Carrega ou não Carrega? ○</p>
-<p style="margin-left:45%">○ 1027 - Onda Crítica ○</p>
 <p style="margin-left:45%">○ 1028 - Figurinhas ○</p>
-<p style="margin-left:45%">○ 1029 - Fibonacci, Quantas Chamadas? ○</p>
+<p style="margin-left:45%">○ 1030 - A Lenda de Flavious Josephus ○</p>
 
 #
 
