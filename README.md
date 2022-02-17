@@ -155,6 +155,31 @@
 <p style="margin-left:45%">○ 1038 - Lanche ○</p>
 <p style="margin-left:45%">○ 1039 - Flores de Fogo ○</p>
 <p style="margin-left:45%">○ 1040 - Média 3 ○</p>
+<p style="margin-left:45%">○ 1041 - Coordenadas de um Ponto ○</p>
+<p style="margin-left:45%">○ 1042 - Sort Simples ○</p>
+<p style="margin-left:45%">○ 1043 - Triângulo ○</p>
+<p style="margin-left:45%">○ 1044 - Múltiplos ○</p>
+<p style="margin-left:45%">○ 1045 - Tipos de Triângulo ○</p>
+<p style="margin-left:45%">○ 1046 - Tempo de Jogo ○</p>
+<p style="margin-left:45%">○ 1047 - Tempo de Jogo com Minutos ○</p>
+<p style="margin-left:45%">○ 1048 - Aumento de Salário ○</p>
+<p style="margin-left:45%">○ 1049 - Animal ○</p>
+<p style="margin-left:45%">○ 1050 - DDD ○</p>
+<p style="margin-left:45%">○ 1051 - Imposto de Renda ○</p>
+<p style="margin-left:45%">○ 1052 - Mês ○</p>
+<p style="margin-left:45%">○ 1059 - Números Pares ○</p>
+<p style="margin-left:45%">○ 1060 - Números Positivos ○</p>
+<p style="margin-left:45%">○ 1061 - Tempo de um Evento ○</p>
+<p style="margin-left:45%">○ 1064 - Positivos e Média ○</p>
+<p style="margin-left:45%">○ 1065 - Pares entre Cinco Números ○</p>
+<p style="margin-left:45%">○ 1066 - Pares, Ímpares, Positvos e Negativos ○</p>
+<p style="margin-left:45%">○ 1067 - Números Ímpares ○</p>
+<p style="margin-left:45%">○ 1068 - Balanço de Parênteses I ○</p>
+<p style="margin-left:45%">○ 1069 - Diamantes e Areia ○</p>
+<p style="margin-left:45%">○ 1070 - Seis Números Ímpares ○</p>
+<p style="margin-left:45%">○ 1071 - Soma de Impares Consecutivos I ○</p>
+<p style="margin-left:45%">○ 1072 - Intervalo 2 ○</p>
+<p style="margin-left:45%">○ 1073 - Quadrado de Pares ○</p>
 
 
 #
