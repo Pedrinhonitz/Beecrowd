@@ -162,7 +162,7 @@
 
 <h3 align="center" style="font-size:25px"> ► Contest de Natal 2021 ◄ </h3>
 <br>
-<h3 style="margin-left:45%" style="font-size:20px"><b> → Python & C ← </b></h3>
+<h3 style="margin-left:45%" style="font-size:20px"><b> → Python & C & C++ ← </b></h3>
 <br>
 <br>
 
@@ -176,6 +176,31 @@
 <p style="margin-left:46%">○ Exercise H ○</p>
 <p style="margin-left:46%">○ Exercise I ○</p>
 <p style="margin-left:46%">○ Exercise J ○</p>
+
+#
+
+
+
+<h3 align="center" style="font-size:25px"> ► Maratona de Programação ICPC 2021 ◄ </h3>
+<br>
+<h3 style="margin-left:45%" style="font-size:20px"><b> → Python & C & C++ ← </b></h3>
+<br>
+<br>
+
+<p style="margin-left:46%">○ Exercise A ○</p>
+<p style="margin-left:46%">○ Exercise B ○</p>
+<p style="margin-left:46%">○ Exercise C ○</p>
+<p style="margin-left:46%">○ Exercise D ○</p>
+<p style="margin-left:46%">○ Exercise E ○</p>
+<p style="margin-left:46%">○ Exercise F ○</p>
+<p style="margin-left:46%">○ Exercise G ○</p>
+<p style="margin-left:46%">○ Exercise H ○</p>
+<p style="margin-left:46%">○ Exercise I ○</p>
+<p style="margin-left:46%">○ Exercise J ○</p>
+<p style="margin-left:46%">○ Exercise K ○</p>
+<p style="margin-left:46%">○ Exercise L ○</p>
+<p style="margin-left:46%">○ Exercise M ○</p>
+<p style="margin-left:46%">○ Exercise N ○</p>
 
 #
 
